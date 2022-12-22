@@ -5,6 +5,7 @@
 #include <stdlib.h>
 using namespace std;
 
+//ezz
 int main();
 
 class bookshop {
